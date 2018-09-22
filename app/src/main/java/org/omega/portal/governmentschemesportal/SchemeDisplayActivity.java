@@ -32,7 +32,7 @@ public class SchemeDisplayActivity extends AppCompatActivity {
         b = findViewById(R.id.linkButton);
 
         desc.setText(sd.description);
-        income.setText("INCOME : " + sd.incomelimit);
+        income.setText("INCOME(In Lakhs) : " + sd.incomelimit);
         applicable.setText("APPLICABLE FOR : " + sd.applicable);
         nationality.setText("NATIONALITY : " + sd.nationality);
         age.setText("AGE : " + sd.agegrp);
