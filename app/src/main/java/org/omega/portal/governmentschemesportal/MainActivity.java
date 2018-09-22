@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity  {
         sd.nationality="Indian";
         sd.agegrp="1 to 18";
         sd.status="Active";
-        sd.documents="Data Not Available";
+        sd.documents="Aadhar Card";
         sd.url="http://wcd.nic.in/bbbp-schemes";
         sd.img = R.drawable.beti_bachao;
         schemeDataList.add(sd);
@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity  {
         sd2.nationality="Indian";
         sd2.agegrp="18 to 70";
         sd2.status="Active";
-        sd2.documents="•Aadhar would be the primary KYC for the bank account.\n Recently taken passport size photograph\n";
+        sd2.documents="•Aadhar would be the primary KYC for the bank account.\n .Recently taken passport size photograph\n";
         sd2.url="https://retail.onlinesbi.com/retail/login.htm";
         sd2.img = R.drawable.bima_suraksha;
         schemeDataList.add(sd2);
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity  {
         sd6.nationality="Indian";
         sd6.agegrp="All";
         sd6.status="Active";
-        sd6.documents="Data Not Available";
+        sd6.documents="Aadhar Card";
         sd6.url="http://www.nrega.nic.in/netnrega/mgnrega_new/Nrega_home.aspx";
         sd6.img = R.drawable.krishi_vikas;
         schemeDataList.add(sd6);
@@ -167,7 +167,7 @@ public class MainActivity extends AppCompatActivity  {
         sd9.nationality="Indian";
         sd9.agegrp="N/A";
         sd9.status="Active";
-        sd9.documents="Data Not Available";
+        sd9.documents="Income Certificate";
         sd9.url="https://scholarships.gov.in/";
         sd9.img = R.drawable.scholarship;
         schemeDataList.add(sd9);
